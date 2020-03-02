@@ -12,6 +12,7 @@ CC BY-NC-SA
 ███████╗███████╗██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝███████╗███████║   ██║   
 ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝   
                                                                             
+                                                                            
  Author: Zadwarf - http://monsieurzad.blogspot.fr/
  
  Description: Heroquest like textual game, it will be updated with graphics contents later.
