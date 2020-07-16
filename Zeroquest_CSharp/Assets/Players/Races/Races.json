@@ -1,0 +1,17 @@
+{
+  "Races": [
+    {
+      "Name": "Human",
+      "Desc": "Jack of all trade, master of none"
+    },
+    {
+      "Name": "Dwarf",
+      "Desc": "Treasure finder"
+    },
+    {
+      "Name": "Elf",
+      "Desc": "Boulder..."
+    }
+  ]
+
+}

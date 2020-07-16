@@ -1,0 +1,4 @@
+C:\Users\ZADWARF\source\repos\MonsieurZad\SuperAdventure\SuperAdventure\obj\Debug\Zeroquest_CSharp.csprojAssemblyReference.cache
+C:\Users\ZADWARF\source\repos\MonsieurZad\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\ZADWARF\source\repos\MonsieurZad\SuperAdventure\SuperAdventure\obj\Debug\Zeroquest_CSharp.csproj.GenerateResource.cache
+C:\Users\ZADWARF\source\repos\MonsieurZad\SuperAdventure\SuperAdventure\obj\Debug\Zeroquest_CSharp.csproj.CoreCompileInputs.cache

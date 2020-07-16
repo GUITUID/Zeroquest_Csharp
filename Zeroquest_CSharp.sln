@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeroquest_CSharp", "SuperAdventure\Zeroquest_CSharp.csproj", "{911FEF02-602B-45A5-899E-2A23E5484D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911FEF02-602B-45A5-899E-2A23E5484D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911FEF02-602B-45A5-899E-2A23E5484D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911FEF02-602B-45A5-899E-2A23E5484D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911FEF02-602B-45A5-899E-2A23E5484D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40D074CF-6097-482D-A428-9D7C5754C28F}
+	EndGlobalSection
+EndGlobal
